@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/.cxx/Debug/5r3416u2/arm64-v8a",
+  "command": "/data/user/0/com.tom.rv2ide/files/home/android-sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-arm64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/com.tom.rv2ide/files/home/android-sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-arm64/sysroot -Dmerminal_EXPORTS -I/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/src/main/jni -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wno-error=format-security -fvisibility=hidden -ffunction-sections -fdata-sections -w -Werror -fno-rtti -fno-exceptions -fpermissive -fms-extensions -Wno-error=c++11-narrowing -std=gnu++17 -o CMakeFiles/merminal.dir/merminal.cpp.o -c /storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/src/main/jni/merminal.cpp",
+  "file": "/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/src/main/jni/merminal.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/.cxx/Debug/5r3416u2/armeabi-v7a/CMakeFiles/merminal.dir
+/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/.cxx/Debug/5r3416u2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/.cxx/Debug/5r3416u2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

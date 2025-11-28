@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ComposeEmptyActivity" parent="android:Theme.Material.Light.NoActionBar" />
+        <style name="Theme.AcTermux" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 这里可以先不配别的，保持空即可 -->
+    </style>
+</resources>

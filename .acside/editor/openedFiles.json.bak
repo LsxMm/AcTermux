@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AcTermux/app/src/main/kotlin/com/social/actermux/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 27,
+          "index": 27,
+          "line": 0
+        },
+        "start": {
+          "column": 8,
+          "index": 8,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AcTermux/app/src/main/kotlin/com/social/actermux/MainActivity.kt"
+}

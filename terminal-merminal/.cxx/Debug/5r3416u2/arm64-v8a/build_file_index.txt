@@ -1,0 +1,1 @@
+/storage/emulated/0/AndroidIDEProjects/AcTermux/terminal-merminal/src/main/jni/CMakeLists.txt
